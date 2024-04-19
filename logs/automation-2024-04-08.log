@@ -1,0 +1,47 @@
+14:07:05.344 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked next button
+14:07:06.069 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - provided all details in the form section
+14:07:08.144 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked confirm button
+14:07:10.159 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Validating the testCase
+14:07:10.222 [main] INFO  testCases.TC001_ValidatingBookshelvesResult -   ==>Test TC003_ValidatingGiftCardsSection Passed
+14:07:10.462 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - ******TC003__ValidatingGiftCardsSection started*********
+14:07:10.464 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Navigated to GiftCard section
+14:07:10.507 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected Ocassion :Birthday/Anniversary
+14:07:10.588 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected amount :2000
+14:07:10.628 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked next button
+14:07:11.315 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - provided all details in the form section
+14:07:13.377 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked confirm button
+14:07:15.383 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Validating the testCase
+14:07:15.430 [main] INFO  testCases.TC001_ValidatingBookshelvesResult -   ==>Test TC003_ValidatingGiftCardsSection Passed
+14:07:15.654 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - ******TC003__ValidatingGiftCardsSection started*********
+14:07:15.654 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Navigated to GiftCard section
+14:07:15.695 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected Ocassion :Birthday/Anniversary
+14:07:15.796 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected amount :5000
+14:07:15.834 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked next button
+14:07:16.612 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - provided all details in the form section
+14:07:18.680 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked confirm button
+14:07:20.693 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Validating the testCase
+14:07:20.740 [main] INFO  testCases.TC001_ValidatingBookshelvesResult -   ==>Test TC003_ValidatingGiftCardsSection Passed
+14:07:20.980 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - ******TC003__ValidatingGiftCardsSection started*********
+14:07:20.980 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Navigated to GiftCard section
+14:07:21.025 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected Ocassion :Birthday/Anniversary
+14:07:21.106 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected amount :1000
+14:07:21.152 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked next button
+14:07:21.854 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - provided all details in the form section
+14:07:23.913 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked confirm button
+14:07:25.929 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Validating the testCase
+14:07:25.970 [main] INFO  testCases.TC001_ValidatingBookshelvesResult -   ==>Test TC003_ValidatingGiftCardsSection Passed
+14:07:26.099 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - ******TC003__ValidatingGiftCardsSection started*********
+14:07:26.099 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Navigated to GiftCard section
+14:07:26.146 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected Ocassion :Birthday/Anniversary
+14:07:26.246 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected amount :1000
+14:07:26.285 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked next button
+14:07:27.038 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - provided all details in the form section
+14:07:29.114 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked confirm button
+14:07:31.115 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Validating the testCase
+14:07:31.165 [main] INFO  testCases.TC001_ValidatingBookshelvesResult -   ==>Test TC003_ValidatingGiftCardsSection Passed
+14:07:31.396 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - ******TC003__ValidatingGiftCardsSection started*********
+14:07:31.397 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Navigated to GiftCard section
+14:07:31.443 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected Ocassion :Birthday/Anniversary
+14:07:31.535 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Selected amount :1000
+14:07:31.580 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - Clicked next button
+14:07:32.500 [main] INFO  testCases.TC001_ValidatingBookshelvesResult - provided all details in the form section

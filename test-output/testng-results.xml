@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T14:05:50 IST" name="Suite" finished-at="2024-04-08T14:07:38 IST" duration-ms="107928">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T14:05:50 IST" name="Test" finished-at="2024-04-08T14:07:38 IST" duration-ms="107928">
+      <class name="testCases.TC002_ValidatingSubMenuOfLivingStorage">
+        <test-method signature="validateSubmenuUnderLivingStorage()[pri:0, instance:testCases.TC002_ValidatingSubMenuOfLivingStorage@2c9399a4]" started-at="2024-04-08T14:06:12 IST" name="validateSubmenuUnderLivingStorage" finished-at="2024-04-08T14:06:14 IST" duration-ms="2396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSubmenuUnderLivingStorage -->
+      </class> <!-- testCases.TC002_ValidatingSubMenuOfLivingStorage -->
+      <class name="testCases.TC001_ValidatingBookshelvesResult">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_ValidatingBookshelvesResult@70dd7e15]" started-at="2024-04-08T14:05:50 IST" name="setup" finished-at="2024-04-08T14:06:00 IST" duration-ms="9615" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateBookshelveResult()[pri:0, instance:testCases.TC001_ValidatingBookshelvesResult@70dd7e15]" started-at="2024-04-08T14:06:00 IST" name="validateBookshelveResult" finished-at="2024-04-08T14:06:12 IST" duration-ms="12203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBookshelveResult -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.TC001_ValidatingBookshelvesResult@70dd7e15]" started-at="2024-04-08T14:07:36 IST" name="close" finished-at="2024-04-08T14:07:38 IST" duration-ms="1204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.TC001_ValidatingBookshelvesResult -->
+      <class name="testCases.TC003_ValidatingGiftCardsSection">
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:06:19 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:06:27 IST" duration-ms="8198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Raja]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[raja@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[600028]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:06:28 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:06:33 IST" duration-ms="5169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kamal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kamal.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[600028]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:06:33 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:06:38 IST" duration-ms="5059" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gomathi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[gomathi@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[600028]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:06:38 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:06:43 IST" duration-ms="5054" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ abc.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[600028]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:06:43 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:06:48 IST" duration-ms="5120" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nikil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[nikil@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[600028]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:06:49 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:06:54 IST" duration-ms="5083" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Aswath]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[aswath@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[603103]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:06:54 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:06:59 IST" duration-ms="5122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Raghu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[raghu@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[603103]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:06:59 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:07:04 IST" duration-ms="5085" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bannela raj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[raj.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[603103]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:07:05 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:07:10 IST" duration-ms="5089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gomz]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[gomzz@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[603103]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:07:10 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:07:15 IST" duration-ms="4969" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Aswanth]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[as@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[603103]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:07:15 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:07:20 IST" duration-ms="5086" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rathina]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rathina12@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[603103]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:07:20 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:07:25 IST" duration-ms="4990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Subashini]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[suba@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimalgmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[603103]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:07:26 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:07:31 IST" duration-ms="5067" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Haritha]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[haritha@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[603103]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+        <test-method signature="validateGiftCardsSection(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_ValidatingGiftCardsSection@191ae03f]" started-at="2024-04-08T14:07:31 IST" name="validateGiftCardsSection" data-provider="FormInputData" finished-at="2024-04-08T14:07:36 IST" duration-ms="5288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sanjey]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[san.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6374603092]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vimal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ vimal@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6374603082]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[603103]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Passed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCardsSection -->
+      </class> <!-- testCases.TC003_ValidatingGiftCardsSection -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
